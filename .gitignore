@@ -1,0 +1,6 @@
+/.DS_Store
+/__pycache__
+/data
+/download_140k.py
+/download_ffhq.py
+/env
